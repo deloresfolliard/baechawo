@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kounughai.timperry.co.uk/sitemap.xml
